@@ -1,0 +1,23 @@
+.dashboard {
+  display: grid;
+  height: 75vh;
+  width: 100%;
+  margin-top: 82px;
+}
+
+.panel {
+  background-color: white;
+  width: 250px;
+  height: 400px;
+  padding: 40px;
+  margin-left: 12px;
+}
+
+.completed {
+  color: darkgray;
+}
+
+.agmx-map {
+  flex: 1;
+  height: 100%;
+}
